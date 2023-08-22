@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Обучение Аналитик\\С#\\HW\\HW4\\Project\\Project.csproj": {}
+    "D:\\Обучение Аналитик\\С#\\HW\\HW5\\Project\\Project.csproj": {}
   },
   "projects": {
-    "D:\\Обучение Аналитик\\С#\\HW\\HW4\\Project\\Project.csproj": {
+    "D:\\Обучение Аналитик\\С#\\HW\\HW5\\Project\\Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Обучение Аналитик\\С#\\HW\\HW4\\Project\\Project.csproj",
+        "projectUniqueName": "D:\\Обучение Аналитик\\С#\\HW\\HW5\\Project\\Project.csproj",
         "projectName": "Project",
-        "projectPath": "D:\\Обучение Аналитик\\С#\\HW\\HW4\\Project\\Project.csproj",
+        "projectPath": "D:\\Обучение Аналитик\\С#\\HW\\HW5\\Project\\Project.csproj",
         "packagesPath": "C:\\Users\\Мария\\.nuget\\packages\\",
-        "outputPath": "D:\\Обучение Аналитик\\С#\\HW\\HW4\\Project\\obj\\",
+        "outputPath": "D:\\Обучение Аналитик\\С#\\HW\\HW5\\Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Мария\\AppData\\Roaming\\NuGet\\NuGet.Config"
